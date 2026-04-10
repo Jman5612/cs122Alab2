@@ -13,6 +13,7 @@ set_io seg7[0] 34
 set_io seg7[1] 31
 set_io seg7[2] 27
 set_io seg7[3] 25
+
 set_io seg7[4] 32
 set_io seg7[5] 28
 set_io seg7[6] 26
